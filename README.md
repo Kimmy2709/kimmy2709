@@ -34,7 +34,7 @@
 
 ## 🍡 Stats con sabor kawaii
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&bg_color=30,FADADD,F6D6FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimmy2709&show_icons=true&theme=tokyonight&bg_color=30,FADADD,F6D6FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </p>
 
 ---
