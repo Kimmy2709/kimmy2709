@@ -40,7 +40,7 @@
 
 ## 🌼 Conectemos
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/raysasedano07/">
     <img src="https://img.shields.io/badge/LinkedIn-F6D6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
