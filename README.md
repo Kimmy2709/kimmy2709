@@ -12,7 +12,7 @@
 
 ---
 
-## 🌷 Tech Stack pasteloso
+## 🌷 Tech Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-F6D6FF?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🍡 Stats con sabor kawaii
+## 🍡 Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimmy2709&show_icons=true&theme=tokyonight&bg_color=30,D3F8E2,C8F4D0,E0FFE9&title_color=3C4858&text_color=3C4858&icon_color=88C8A0" />
 </p>
