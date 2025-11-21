@@ -27,8 +27,8 @@
 ✨ QA en el sector bancario, enfocada en asegurar la calidad de microservicios, procesos transaccionales y sistemas críticos.  
 ✨ Realizo pruebas funcionales, exploratorias y de regresión, verificando flujos sensibles como pagos, validaciones y seguridad básica.  
 ✨ Diseño y ejecuto casos de prueba claros, reporto bugs con precisión y colaboro con devs para mantener un ciclo de desarrollo sano y estable.  
-✨ Fuera del código, dibujo, bailo y exploro ideas sobre IA, neurociencia y futuros posibles.  
-✨ Mi escritorio siempre tiene colores pasteles y probablemente un café a un lado.  
+✨ Fuera del código, dibujo y exploro ideas sobre IA, neurociencia y futuros posibles.  
+✨ Mi escritorio siempre tiene colores pasteles y probablemente algún dulce al lado.  
 
 ---
 
