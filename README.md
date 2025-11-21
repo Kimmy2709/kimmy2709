@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  Estudiante de Ingeniería de Software • QA en crecimiento • Amante del arte  ✨  
-  Me gusta construir software claro, ordenado y sostenible, pero siempre con un toque creativo.
+  Estudiante de Ingeniería de Software • QA en el sector bancario • Amante del arte y las cosas cute ✨  
+  Desarrollo y pruebo software con precisión técnica, orden y un toque dulce.
 </p>
 
 ---
 
-## 🌷 Tech Stack 
+## 🌷 Tech Stack pasteloso
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-F6D6FF?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -24,10 +24,11 @@
 ---
 
 ## 🧁 Sobre mí
-✨ Me encanta resolver problemas con lógica, pero también con estilo.  
-✨ Soy detallista (culpa del lado QA), así que me gusta que las cosas funcionen… y que se vean lindas.  
-✨ Bailo, dibujo y exploro ideas raras sobre IA, neurociencia, universos hipotéticos y mundos futuristas.  
-✨ Mi escritorio siempre tiene colores pasteles.  
+✨ QA en el sector bancario, enfocada en asegurar la calidad de microservicios, procesos transaccionales y sistemas críticos.  
+✨ Realizo pruebas funcionales, exploratorias y de regresión, verificando flujos sensibles como pagos, validaciones y seguridad básica.  
+✨ Diseño y ejecuto casos de prueba claros, reporto bugs con precisión y colaboro con devs para mantener un ciclo de desarrollo sano y estable.  
+✨ Fuera del código, dibujo, bailo y exploro ideas sobre IA, neurociencia y futuros posibles.  
+✨ Mi escritorio siempre tiene colores pasteles y probablemente un café a un lado.  
 
 ---
 
@@ -46,3 +47,4 @@
 </p>
 
 <p align="center">Gracias por pasar por aquí 💖</p>
+
