@@ -2,7 +2,7 @@
 <h1 align="center">🌸 Hola, soy Kimmy 🌸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VlM3d3NXRha2J6eGVuMWxyZWYxbHBkOGJhY2RzY21nYXRtNmswbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L05HgB2h6qICDs5Sms/giphy.gif" width="180px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VlM3d3NXRha2J6eGVuMWxyZWYxbHBkOGJhY2RzY21nYXRtNmswbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L05HgB2h6qICDs5Sms/giphy.gif" width="80px">
 </p>
 
 <p align="center">
