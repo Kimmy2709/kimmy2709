@@ -34,9 +34,8 @@
 
 ## 🍡 Stats con sabor kawaii
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimmy2709&show_icons=true&theme=tokyonight&bg_color=30,FADADD,F6D6FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimmy2709&show_icons=true&theme=tokyonight&bg_color=30,D3F8E2,C8F4D0,E0FFE9&title_color=3C4858&text_color=3C4858&icon_color=88C8A0" />
 </p>
-
 ---
 
 ## 🌼 Conectemos
